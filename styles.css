@@ -19,12 +19,12 @@ header {
 }
 
 .button-header {
-    width: 130px;
-    height: 41px;
+    width: 8.125rem;
+    height: 2.5625rem;
     border-radius: 50px;
     border: none;
     background: #665AE1;
-    color: white;
+    color: #ffffff;
     font-size: 24px;
     font-weight: 600;
     line-height: normal;
